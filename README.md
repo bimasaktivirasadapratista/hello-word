@@ -1,2 +1,3 @@
 # hello-word
-Learn Coding
+Hai,
+Belajar bahasa komputer.
